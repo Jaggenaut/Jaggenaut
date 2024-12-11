@@ -1,74 +1,67 @@
-# Hi there! 👋 I'm Jaggenaut (Aditya Singh)
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Jaggenaut.Jaggenaut" />
 
-🎓 **Final Year B.Tech Student**  
-💻 **Aspiring Software Developer** | Passionate about **Full-Stack Development** and **Data Structures & Algorithms**  
-🚀 **Current Focus**: Exploring the MERN stack and building exciting projects  
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aditya+Singh!;" />
+</h1>
 
----
+<h3 align="center">A passionate full-stack developer from India 🇮🇳</h3>
 
-## 💼 About Me  
+<br/>
 
-- 🔭 I’m currently working on a **Collaborative Notes App** with real-time collaboration features.  
-- 🌱 I’m improving my skills in **JWT Authentication**, **WebSockets**, and **Containerization**.   
-- ⚡ Fun Fact: I enjoy solving puzzles and exploring in my free time!  
+<div align="center">
+ 
+ 🔭 I’m currently working on **a collaborative notes app**
+ 
+ 🌱 I’m currently learning **JWT, WebSockets, Docker, and advanced MERN stack concepts**
 
----
+💬 Ask me about **React, Node.js, MongoDB, FastAPI... or anything [here](https://github.com/Jaggenaut/Jaggenaut/issues)**
 
-## 🛠️ Tech Stack  
+⚡ Fun fact **The "Pac-Man" ghosts' AI is not random; each has a specific targeting pattern.**
 
-<table>
-  <tr>
-    <th>Category</th>
-    <th>Technologies</th>
-  </tr>
-  <tr>
-    <td>🌐 Frontend</td>
-    <td>
-      <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" title="React" />
-      <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript" />
-      <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" title="HTML" />
-      <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS" />
-    </td>
-  </tr>
-  <tr>
-    <td>🔧 Backend</td>
-    <td>
-      <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" title="Node.js" />
-      <img src="https://img.icons8.com/color/48/000000/fastapi.png" alt="FastAPI" title="FastAPI" />
-      <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/000000/external-express-js-node-js-framework-logo-filled-tal-revivo.png" alt="Express.js" title="Express.js" />
-    </td>
-  </tr>
-  <tr>
-    <td>🗄️ Databases</td>
-    <td>
-      <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" title="MongoDB" />
-      <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" title="PostgreSQL" />
-    </td>
-  </tr>
-  <tr>
-    <td>⚙️ Tools</td>
-    <td>
-      <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" title="GitHub" />
-      <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" title="Docker" />
-      <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VSCode" title="Visual Studio Code" />
-      <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git" />
-    </td>
-  </tr>
-</table>
+</div>
 
----
+<div align="center"> 
+  <a href="mailto:aditya.l.k.2001@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/aditya-singh-aka-jaggernaught/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
 
-## 📂 Featured Projects  
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,typescript,javascript,html,css,mongodb,python,fastapi,docker" /><br>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,bootstrap,postman,java,mysql" />
+</div>
 
-### 📘 [Collaborative Notes App](https://github.com/Jaggenaut/ColaborativeApp)  
-> **Technologies:** MERN Stack, WebSockets, JWT  
-A platform for real-time collaborative note-taking and sharing.
+<br/>
+<hr/>
 
----
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Jaggenaut/Jaggenaut/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
-## 🔗 Let's Connect  
+<hr/>
 
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/adityasingh)
-[![Email](https://img.icons8.com/color/48/000000/gmail-new.png)](mailto:aditya.l.k.2001@gmail.com)  
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com/?user=Jaggenaut&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Jaggenaut&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+</div>
 
----
+<br/><br/>
+
+<hr/>
+
+<br/>
+<br/>
